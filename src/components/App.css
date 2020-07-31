@@ -1,0 +1,18 @@
+.mytodo {
+    border-radius: 50px;
+}
+
+.collection-item {
+    border: 0px;
+}
+
+.collection {
+    border: 0px;
+}
+
+.test {
+    border: 1px;
+    border-radius: 10px;
+    padding: 25px;
+}
+
